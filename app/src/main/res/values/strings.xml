@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+    <string name="company_name">Bits and Pizzas</string>
+    <string name="restaurant_image">Pizzas:)</string>
+    <string name="home_text">
+        A one of a kind pizza stop that offers a selection of skillfully designed pizzas coupled with delectable Sushi creations,
+        small plates and wines from different regions of the world
+
+    </string>
+    <string name="order_name_hint">Name </string>
+    <string name="order_details_hint">What do you feel like having?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="pizzas">
+        <item>Indie paneer</item>
+        <item>fungi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>spaghetti </item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Delhi</item>
+        <item>Bengaluru</item>
+    </string-array>
+</resources>
